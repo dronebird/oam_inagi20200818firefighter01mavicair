@@ -1,3 +1,5 @@
+<img src="https://github.com/dronebird/oam_inagi20200818firefighter01mavicair/blob/master/inagi.jpg?raw=true" width="500">
+
 # oam_inagi20200818firefighter01mavicair
 稲城市防災訓練2020
 
