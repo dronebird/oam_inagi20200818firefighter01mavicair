@@ -1,0 +1,2 @@
+# oam_inagi20200818firefighter01mavicair
+稲城市防災訓練2020
